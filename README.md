@@ -31,7 +31,7 @@ Spring Security (for backend security and user authentication)
 1. Sign Up
 To use the platform, you must first create an account.
 
-Go to the homepage (http://localhost:3000).
+Go to the homepage 
 Click on the Sign Up link in the navigation bar.
 Fill in your details (username, email, password, etc.).
 Click Submit to create your account.
@@ -40,7 +40,7 @@ Once registered, you'll receive a confirmation message, and you'll be redirected
 2. Sign In
 If you already have an account, you can sign in:
 
-On the homepage (http://localhost:3000), click on the Sign In link in the navigation bar.
+On the homepage  click on the Sign In link in the navigation bar.
 Enter your registered email and password.
 Click Login to access your profile and start interacting with the marketplace.
 
